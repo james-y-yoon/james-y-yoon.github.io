@@ -26,7 +26,7 @@ latest_posts:
 
 Hi there! I'm James, and I'm a fourth-year Ph.D. candidate at the Department of Atmospheric & Climate Science at the University of Washington. I am co-advised by <a href = "https://alexjturner.github.io/index.html">Alex Turner</a> and <a href = "https://www.atmos.washington.edu/~thornton/">Joel Thornton</a>.
 
-<b>I'm an atmospheric chemistry modeler who uses a hierarchy of models, ranging from global chemical transport models (e.g. GEOS-Chem) to large-eddy simulations, to interpret satellite retrievals.</b> I'm particularly interested in biosphere-atmosphere interactions and tropical atmospheric chemistry, specifically at isoprene/VOC and NOx emissions and chemistry. In addition to atmospheric chemistry, I'm interested in phytoplankton, vegetation remote sensing, and the land carbon sink. 
+<b>I'm an atmospheric chemistry modeler who uses a hierarchy of models, ranging from global chemical transport models (e.g. GEOS-Chem) to large-eddy simulations, to interpret satellite retrievals.</b> I'm particularly interested in biosphere-atmosphere interactions and tropical atmospheric chemistry, specifically isoprene/VOC and NOx emissions and chemistry. In addition to atmospheric chemistry, I'm interested in phytoplankton, vegetation remote sensing, and the land carbon sink. 
 
 Previously, I was an undergraduate researcher at the University of California - Los Angeles working on nitrous acid (HONO) chemistry modeling. I also have a background in Asian American Studies, science communication/education, and digital humanities. 
 
