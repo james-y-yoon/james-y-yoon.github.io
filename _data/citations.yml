@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-13'
 papers:
   7PUTovAAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -21,6 +21,10 @@ papers:
     citations: 0
     title: Sensitive response of atmospheric oxidative capacity to the uncertainty in the emissions of nitric oxide (NO) from soils
     year: '2023'
+  7PUTovAAAAAJ:W7OEmFMy1HYC:
+    citations: 0
+    title: Large Methane Fluxes above the Amazon Basin
+    year: '2025'
   7PUTovAAAAAJ:Y0pCki6q_DkC:
     citations: 1
     title: 'Inferring drivers of tropical isoprene: competing effects of emissions and chemistry'
