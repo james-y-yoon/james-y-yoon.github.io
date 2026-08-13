@@ -84,4 +84,9 @@ nav_order: 6
 <li>Guest lectured in ATMOS 358 (Fundamentals of Atmospheric Chemistry) on the ideal gas law and measures of atmospheric composition</li>
 </ul>
 
+<h5>Guest Panelist for ATMOS 220 (University of Washington) - Exploring Atmospheric Sciences (Spring 2026)</h5>
+<ul>
+<li>Guest panelist in ATMOS 220 about career paths for atmospheric science majors to a class of 30 undergraduates</li>
+</ul>
+
 </div>
