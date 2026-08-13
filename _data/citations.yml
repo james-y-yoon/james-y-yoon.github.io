@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-08-05'
 papers:
   7PUTovAAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -13,12 +13,24 @@ papers:
     citations: 0
     title: Interannual Variations in Isoprene Emissions Impact Atmospheric Oxidative Capacity and Methane Lifetimes
     year: '2023'
+  7PUTovAAAAAJ:Tyk-4Ss8FVUC:
+    citations: 0
+    title: Airborne observations reveal underestimated riverine methane emissions across the Amazon
+    year: '2026'
   7PUTovAAAAAJ:UeHWp8X0CEIC:
     citations: 0
     title: Sensitive response of atmospheric oxidative capacity to the uncertainty in the emissions of nitric oxide (NO) from soils
     year: '2023'
+  7PUTovAAAAAJ:W7OEmFMy1HYC:
+    citations: 0
+    title: Large Methane Fluxes above the Amazon Basin
+    year: '2025'
+  7PUTovAAAAAJ:Y0pCki6q_DkC:
+    citations: 1
+    title: 'Inferring drivers of tropical isoprene: competing effects of emissions and chemistry'
+    year: '2026'
   7PUTovAAAAAJ:d1gkVwhDpl0C:
-    citations: 6
+    citations: 9
     title: Sensitive response of atmospheric oxidative capacity to the uncertainty in the emissions of nitric oxide (NO) from soils in Amazonia
     year: '2024'
   7PUTovAAAAAJ:qjMakFHDy7sC:
@@ -34,6 +46,6 @@ papers:
     title: The influence of land carbon cycle representation on terrestrial sink sensitivity, total warming, and global carbon budgets
     year: '2023'
   7PUTovAAAAAJ:zYLM7Y9cAGgC:
-    citations: 6
+    citations: 10
     title: Impacts of interannual isoprene variations on methane lifetimes and trends
     year: '2025'
